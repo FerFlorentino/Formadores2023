@@ -1,7 +1,7 @@
 body{
     background-color: chartreuse;
 }
-h1{
+#titulo-principal{
     text-align: center;
     color: black;
     font-size: 50
